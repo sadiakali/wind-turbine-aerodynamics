@@ -16,7 +16,7 @@ The model develops progressively from analysing individual airfoil sections to m
 ## Interactive Simulation
 Watch a small clip of the interactive simulation:
 
-https://github.com/user-attachments/assets/23877952-1503-4be8-aca8-f6c39b566dc6
+https://github.com/user-attachments/assets/7cd4f35b-ed0a-471e-b20b-68ea107836d1
 
 ## Development
 The project is developed primarily in Python, with HTML used to support the interactive simulation. Numerical calculations and data visualisation are used to explore the aerodynamic behaviour of wind turbine blades.
