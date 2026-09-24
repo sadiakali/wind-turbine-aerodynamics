@@ -39,4 +39,17 @@ The model is intended as a learning and exploration tool. Its assumptions and li
 - Compare model results with relevant theoretical expectations and reference data.
 
 ## References
-Reference materials and data sources will be documented as the project develops.
+
+[1] Anderson JD. *Introduction to Flight.* 3rd ed. New York: McGraw-Hill; 1989.
+
+[2] Jonkman J, Butterfield S, Musial W and Scott G. *Definition of a 5-MW Reference Wind Turbine for Offshore System Development* [online]. Golden, CO: National Renewable Energy Laboratory; 2009. https://docs.nlr.gov/docs/fy09osti/38060.pdf.
+
+[3] Moriarty PJ and Hansen AC. *AeroDyn Theory Manual* [online]. Golden, CO: National Renewable Energy Laboratory; 2005. NREL/TP-500-36881. https://docs.nlr.gov/docs/fy05osti/36881.pdf.
+
+[4] Hynes CS, Hardy GH and Sherry L. *Synthesis from Design Requirements of a Hybrid System for Transport Aircraft Longitudinal Control* [online]. Volume II. Moffett Field, CA: NASA Ames Research Center; 2007. p. 16. https://ntrs.nasa.gov/api/citations/20120003268/downloads/20120003268.pdf.
+
+[5] Cornell University. *Aerodynamic Background* [online]. Ithaca, NY: Cornell University; n.d. https://courses.cit.cornell.edu/mae5070/AeroBackground.pdf.
+
+[6] Zheng X, Yao Y, Hu Z and Hu S, *Influence of Turbulence Intensity on the Aerodynamic Performance of Wind Turbines Based on the Fluid-Structure Coupling Method* [online]. *Applied Sciences.* 2023;13(1):250. https://doi.org/10.3390/app13010250.
+
+[7] Scholz D. *13 – Drag Prediction* [online]. Hamburg: Hamburg University of Applied Sciences; n.d. https://www.fzt.haw-hamburg.de/pers/Scholz/HOOU/AircraftDesign_13_Drag.pdf.
