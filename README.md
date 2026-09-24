@@ -14,21 +14,21 @@ The model develops progressively from analysing individual airfoil sections to m
 - Developing an interactive simulation to explore the influence of operating conditions and blade characteristics.
 
 ## Development
-The project is being developed mainly through Python, with some HTML used, through numerical calculations and data visualisation.
+The project is developed primarily in Python, with HTML used to support the interactive simulation. Numerical calculations and data visualisation are used to explore the aerodynamic behaviour of wind turbine blades.
 
-The model is intended as a learning and exploration tool. Its assumptions, limitations and accuracy are considered as development progress. Limitations such as relative velocity, tip vortex effects... have already been considered.
+The model is intended as a learning and exploration tool. Its assumptions and limitations are considered throughout development, including relative velocity, axial induction, stall correction and tip vortex effects.
 
 ## Technologies
 - Python
 - HTML
 - NumPy
 - SciPy
-- Matplotlib
+- Matplotlib (including 3D visualisation)
 - Jupyter Notebook
 - Interactive Widgets
 
 ## Further Development
-- Improve the accuracy of the aerodynamic model by accounting for other limitations, such as dynamic wake effects.
+- Improve the accuracy of the aerodynamic model by accounting for additional limitations, such as dynamic wake effects.
 - Investigate the effect of different operating conditions and blade parameters.
 - Develop further interactive visualisations.
 - Compare model results with relevant theoretical expectations and reference data.
